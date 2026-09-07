@@ -1,3 +1,6 @@
+项目合并至 https://github.com/soulteary/gorge 
+---
+
 # gorge-webhook
 
 Gorge 平台中的 Herald Webhook 投递微服务，以独立 Go 服务的方式替代 Phorge 内置的 PHP webhook 投递逻辑。
